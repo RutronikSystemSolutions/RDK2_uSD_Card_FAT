@@ -4,11 +4,15 @@ Rutronik Development Kit Programmable System-on-Chip CY8C6245AZI-S3D72 "uSD Card
 
 This example demonstrates how to access uSD card using FAT file system.
 
- <img src="images/rutdevkit_model.png" style="zoom:20%;" />
+<img src="images/rdk2_rev1.jpg" style="zoom:80%;" />
+
+## Supported toolchains (make variable 'TOOLCHAIN')
+
+- GNU Arm&reg; Embedded Compiler v11.3.1 (`GCC_ARM`) - Default value of `TOOLCHAIN`
 
 ## Requirements
 
-- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) v3.0
+- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) **v3.x** [built with **v3.0**]
 
 ## Using the code example
 
