@@ -2,7 +2,7 @@
 
 Rutronik Development Kit Programmable System-on-Chip CY8C6245AZI-S3D72 "uSD Card with FAT file system" Example. 
 
-This example demonstrates how to access uSD card using FAT file system.
+This example demonstrates how to access uSD card using the FAT file system.
 
 <img src="images/rdk2_rev1.jpg" style="zoom:80%;" />
 
@@ -12,7 +12,7 @@ This example demonstrates how to access uSD card using FAT file system.
 
 ## Requirements
 
-- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) **v3.x** [built with **v3.0**]
+- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) **v2025.4.0** [built with **v3.0**]
 
 ## Using the code example
 
@@ -129,7 +129,7 @@ The program initiates the uSD hardware and FAT file system. Tries to mount the u
 
 ### Debugging
 
-If you successfully have imported the example, the debug configurations are already prepared to use with a the KitProg3, MiniProg4, or J-link. Open the ModusToolbox perspective and find the Quick Panel. Click on the desired debug launch configuration and wait until the programming completes and the debugging starts.
+If you have successfully imported the example, the debug configurations are already prepared to use with the KitProg3, MiniProg4. Open the ModusToolbox perspective and find the Quick Panel. Click on the desired debug launch configuration and wait until the programming completes and the debugging starts.
 
 <img src="images/usd_card_debug.png" style="zoom:100%;" />
 
